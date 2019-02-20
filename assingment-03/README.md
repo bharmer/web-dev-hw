@@ -3,4 +3,3 @@
 
 2. HTML is a mark up language. It is what needs to be used for the computer to transfer the human written language into "computer" language. It is made up of a series of numbers. 
 
-3.
