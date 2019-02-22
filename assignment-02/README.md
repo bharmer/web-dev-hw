@@ -8,3 +8,5 @@ I'm taking this class in order to gain skills on how to build a website
 - I'm hoping to learn how to build an aesthetically pleasing website
 
 [Google](https://www.google.com/)
+
+[Responses](/responses.txt)
