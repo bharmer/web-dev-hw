@@ -1,3 +1,15 @@
 Today I woke up and made breakfast. 
 Afterwards, I watched a documentary and enjoyed my coffee. 
 I'm currently working on my homework and happy that mt dog is sleeping. 
+
+Responses
+5.	How is the web different than the internet?
+The internet is made up of individually run networks. There is no central control for the packets. The web is the platform for the internet to be able to run sites (www.___.com)
+6.	Briefly describe how the internet works. ("Magic.")
+No one controls it and yet everyone is able to control it. It was built to be pulled apart and rearranged and grow. It was purposely arranged in a net-like formation, giving it the opportunity to be built onto and difficult to be short circuited. There are many intersections so if one line goes down it doesn’t take the whole thing with it.  
+7.	What is a directory, and what is its relationship to files?
+The directory is the main base to hold files and folders. It is similar to if you have a basket near your door to hold things like your glasses case that will then hold your glasses. It is the first step to the nesting processes. 
+8.	Why is using a VCS beneficial?
+It allows for changes to be made to files and saved by being committed. When they’re saved, you are also able to name what the change was. This makes it easier for when looking back at what was done to that file.
+9.	State at least one thing you found interesting this topic, or that you didn't know before.
+I didn’t realize that internet wires needed to be place under the ground and even under the sea to connect the world together by the internet. I also didn’t know that the internet was created as a communication defense for if there was ever a nuclear bomb. 

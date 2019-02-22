@@ -1,1 +1,12 @@
 My Responses: 
+6.	Briefly describe one way how data travels on the internet.
+The internet ships binary information which are called bits. It is called binary because there are two codes, 0s and or 1s. A bit rate is the number of bits that we can send over a given period of time. The bandwidth of someone’s internet determines the max capacity of that device.
+7.	What is the relationship between an IP address and the DNS?
+An IP address is something that your computer gets assigned and is similar to an actual address. It allows for packets to know where they are going when it is asking for information to be sent to it. The IP address has parts to it that keep it organized also like a home address. 
+DNS changes the letters into something that the server’s IP address can pick up on. It is the middle man between the user typing the website name into the search bar and the site actually showing up on the screen. Those words have to be translated into number then translated back into words.
+8.	What is a cookie?
+A cookie is a packet of information that is sent from the site you are on to your computer. That is why sometimes you have to change in your settings to allow certain cookies to go through. It comes from the server and into the browser. It also is how log ins can remember your information. It allows for website to identify you for the next time that you visit, similar to having an ID card.
+9.	List the three basic parts of a URL.
+Protocol: This is in the language of HTTP and similar to the country on an actual address 
+Domain: this is the unique, fatty part of the website. It is also closet to being a city or state on an address. 
+Paths: Help the server figure out how to get to where it needs to go. It contains the directions for the browser. 
