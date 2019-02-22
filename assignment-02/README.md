@@ -9,4 +9,4 @@ I'm taking this class in order to gain skills on how to build a website
 
 [Google](https://www.google.com/)
 
-[Responses](/responses.txt)
+[Responses](./responses.txt)
