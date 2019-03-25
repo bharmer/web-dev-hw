@@ -1,15 +1,9 @@
 
-div {
-  background:orange;
-  margin: auto;
-  width: 50%;
-  padding: 10px;
-}
 h2 {
   font-family: Chalkduster;
   color: turquoise;
   font-size: 60px;
-  text-align: right;
+  text-align: center;
 }
 
 .centered {
