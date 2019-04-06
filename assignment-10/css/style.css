@@ -1,3 +1,4 @@
+
 /* Guarenteed: */
 .p1 {
    font-family: sans-serif;
@@ -14,7 +15,14 @@
    font-family: Times;
 }
 
-
+/* backup-font: */
 #heading-1 {
     font-family: 'Baskerville', 'American Typewriter', Trebuchet MS, Verdana, sans-serif;
+}
+/* sizing: */
+p.one {
+    font-size: 12pt;
+}
+p.two {
+    font-size: 16px;
 }
