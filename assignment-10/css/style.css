@@ -1,74 +1,85 @@
-
-/* Guarenteed: */
-.p1 {
-   font-family: sans-serif;
-}
-.p2 {
-   font-family: serif;
-}
-.p3 {
-   font-family: monospace;
+@font-face {
+  font-family:'sans-serif';
+  src:url('../fonts/sans-serif-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
 }
 
-/* Specific: */
-.p4 {
-   font-family: Times;
+@font-face {
+  font-family: 'sans-serif-Italic';
+  src:url('../fonts/sans-serif-Italic.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
 }
 
-/* backup-font: */
-#heading-1 {
-    font-family: 'Baskerville', 'American Typewriter', Trebuchet MS, Verdana, sans-serif;
-}
-/* sizing: */
-p.one {
-    font-size: 12pt;
-}
-p.two {
-    font-size: 16px;
+@font-face {
+  font-family: 'Baskerville';
+  src:url('../fonts/Baskerville.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
 }
 
-/* spacing: */
-* {
-line-height: 2;
-}
-* {
-line-height: 200%;
-}
-* {
-line-height: 2em;
+
+
+html {
+  font-family: 'sans-serif-Regular', serif;
+  font-size:14pt;
+  letter-spacing: normal;
+  padding: 20px 20px 20px 100px;
 }
 
-/* allingment */
-@import url('https://fonts.googleapis.com/css?family=Arima+Madurai');
-
-h2 {
-  font-family: 'Arima Madurai', cursive;
-  font-size: 3em;
-  color: #000;
-  text-align: center;
-  margin: 0.2em;
+h1 {
+  font-family: 'Baskerville', serif;
+  font-size: 1.5em;
 }
 
-p {
-  font-family: erif;
-  font-size: 1em;
-  color: #E95420;
-  text-align: ;
-  margin: 0.5em;
+h2, cite {
+  font-family: 'sans-serif-Italic', sans-serif;
+  font-size: 2em;
+  font-style: italic;
+  padding-bottom: 5%;
 }
 
-.change-01 {
-  text-align: left;
+p  {
+  line-height: 1.5em;
+  padding: 2px;
+  text-indent: 1em;
 }
 
-.change-02 {
-  text-align: center;
+.main-content {
+  width: 50%;
+  height: auto;
 }
 
-.change-03 {
-  text-align: right;
+
+.main-content p:first-child::first-letter {
+  font-family: 'Baskerville', serif;
+  font-size:5em;
 }
 
-.change-04 {
-  text-align: justify;
+.main-content p:first-child::first-line {
+  font-style: italic
+}
+
+a:link{
+  color: rgb(255, 204, 255);
+}
+
+a:hover{
+  color:rgb(153, 255, 255);
+}
+
+a:visited{
+  color: rgb(255, 153, 153);
+}
+
+.special {
+  font-family: 'Baskerville', serif;
+  letter-spacing: .40em;
+}
+
+.footer, .header {
+  background-color: rgb(121, 137, 157);
+  background-color: rgba(55, 100, 154, 0.32);
+  padding-left: 1.1em;
 }
