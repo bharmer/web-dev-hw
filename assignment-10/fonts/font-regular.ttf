@@ -1,0 +1,27 @@
+@font-face {
+font-family:"sans-serif"
+
+
+
+
+
+/* Guarenteed: */
+.p1 {
+   font-family: sans-serif;
+}
+.p2 {
+   font-family: serif;
+}
+.p3 {
+   font-family: monospace;
+}
+
+/* Specific: */
+.p4 {
+   font-family: Times;
+}
+
+/* backup-font: */
+#heading-1 {
+    font-family: 'Baskerville', 'American Typewriter', Trebuchet MS, Verdana, sans-serif;
+}
