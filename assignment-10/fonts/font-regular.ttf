@@ -1,8 +1,8 @@
 @font-face {
-font-family:"sans-serif"
+font-family: 'Merriweather', serif;"
 /* Guarenteed: */
 .p1 {
-   font-family: sans-serif;
+font-family: 'Merriweather', serif;;
 }
 .p2 {
    font-family: serif;
