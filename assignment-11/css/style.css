@@ -70,7 +70,14 @@ height: 70px;
 width: 70px;
 background-color: rgb(3, 169, 244);
 margin: 0 1.5% 24px 1.5%;
+}
 
+#square-8 {
+float: left;
+height: 70px;
+width: 70px;
+background-color: rgb(105, 1, 35);
+margin: 0 1.5% 24px 1.5%;
 
 
 
