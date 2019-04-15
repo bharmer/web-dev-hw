@@ -16,8 +16,8 @@ body {
   float: left;
   height: 70px;
   width: 70px;
-   background-color: rgb(195, 13, 75);
-    margin: 0 1.5% 24px 1.5%;
+  background-color: rgb(195, 13, 75);
+  margin: 0 1.5% 24px 1.5%;
 
   }
   #square-2 {
@@ -52,6 +52,7 @@ width: 70px;
 background-color: rgb(140, 139, 139);
 margin: 0 1.5% 24px 1.5%;
 
+}
 p span
 {
     display: block;
