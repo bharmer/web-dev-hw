@@ -24,17 +24,8 @@ body {
    border-style: outset;
    border-width: 1em;
    border-color: rgb(0, 0, 0);
-   z-index: 1;
-
-
-
-
-
-
-
-
-
-
+   z-index: 1
+}
 
 #square-1 {
   float: left;
