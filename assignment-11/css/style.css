@@ -2,12 +2,12 @@
 body {
   text-align: center;
   padding: 15px;
-  border: 7px solid #000000;
+  border: 7px solid ##b58907;
 }
 .main-container {
-  background: sand;
+  background: rgb(#aa93d4);
   border: 4px solid #000000;
 }
 .secondary-container {
-  border: 4px solid #000000;
+  border: 4px solid ##b58907;
 }
