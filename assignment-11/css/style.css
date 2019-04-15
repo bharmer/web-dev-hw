@@ -37,7 +37,13 @@ body {
   height: 50px;
   width: 50px;
   background-color: rgb(210, 36, 24);
+}
 
+  #square-5 {
+  float: left;
+  height: 50px;
+  width: 50px;
+  background-color: rgb(7, 17, 70);
 
 
 
