@@ -63,6 +63,10 @@ background-color: rgb(255, 152, 0);
 margin: 0 1.5% 24px 1.5%;
 position: : bottom;
 
+p.a {
+  word-break: break-all;
+}
+
 }
 #square-7 {
 float: left;
