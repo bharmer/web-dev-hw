@@ -11,6 +11,30 @@ body {
 .secondary-container {
   border: 4px solid ##b58907;
 }
+/*art work*/
+.square-1 {
+   margin: auto;
+   padding: 0.25em;
+   min-width: 75px;
+   color: #9e1544;
+   line-height: 5em;
+}
+   .square-2 {
+      margin: auto;
+      padding: 0.25em;
+      min-width: 75px;
+      color: #cddc39;
+      line-height: 5em;
+
+
+
+
+
+
+
+
+
+
 /* fonts */
 @font-face {
   atom-workspace {
@@ -26,11 +50,3 @@ font-family: 'Phosphate', serif;;
 }
 
 /*border*/
-#square-1 {
-  width: 80%;
-  height: 80%;
-  padding: 4em;
-  margin: auto;
-  background-color: rgb(157, 117, 228);
-  z-index: 2;
-  }
