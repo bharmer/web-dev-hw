@@ -13,30 +13,30 @@ body {
 }
 /*art work*/
 #square-1 {
-  position: relative;
-  width: 40%;
-  height: 40%;
-  padding: 4em;
-  margin: auto;
-  background-color: rgb(195, 13, 75);
+  float: left;
+  height: 50px;
+  width: 50px;
+   background-color: rgb(195, 13, 75);
 
   }
   #square-2 {
-    position: relative;
-    width: 40%;
-    height: 40%;
-    padding: 4em;
-    margin: auto;
+    float: left;
+    height: 50px;
+    width: 50px;
     background-color: rgb(128, 195, 49);
 }
     #square-3 {
-      position: relative;
-      width: 40%;
-      height: 40%;
-      padding: 4em;
-      margin: auto;
+      float: left;
+      height: 50px;
+      width: 50px;
       background-color: rgb(210, 36, 24);
+}
 
+  #square-4 {
+  float: left;
+  height: 50px;
+  width: 50px;
+  background-color: rgb(210, 36, 24);
 
 
 
