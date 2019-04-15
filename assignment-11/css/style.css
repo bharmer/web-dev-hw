@@ -25,7 +25,12 @@ font-family: 'Phosphate', serif;;
    font-family: Gill Sans MT Condensed;
 }
 
-/* Specific: */
-.p4 {
-   font-family: Gill Sans MT Condensed;
-}
+/*border*/
+#square-1 {
+  width: 80%;
+  height: 80%;
+  padding: 4em;
+  margin: auto;
+  background-color: rgb(157, 117, 228);
+  z-index: 2;
+  }
