@@ -12,7 +12,8 @@ body {
   border: 4px solid ##b58907;
 }
 /*art work*/
-.square-1 {
+.display-inline-block {
+    display: inline-block;
    margin: auto;
    padding: 0.25em;
    min-width: 75px;
