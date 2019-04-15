@@ -33,6 +33,7 @@ body {
   width: 70px;
   background-color: rgb(195, 13, 75);
   margin: 0 1.5% 24px 1.5%;
+  z-index: 1;
 
   }
   #square-2 {
@@ -41,6 +42,8 @@ body {
     width: 70px;
     background-color: rgb(128, 195, 49);
     margin: 0 1.5% 24px 1.5%;
+    z-index: 2;
+
     }
     #square-3 {
       float: left;
@@ -48,6 +51,8 @@ body {
       width:70px;
       background-color: rgb(210, 36, 24);
       margin: 0 1.5% 24px 1.5%;
+      z-index: 3;
+
 
    }
   #square-4 {
@@ -56,6 +61,7 @@ body {
   width: 70px;
   background-color: rgb(7, 17, 70);
   margin: 0 1.5% 24px 1.5%;
+  z-index: 4;
 
 }
 #square-5 {
@@ -64,7 +70,7 @@ height: 70px;
 width: 70px;
 background-color: rgb(140, 139, 139);
 margin: 0 1.5% 24px 1.5%;
-
+z-index: 5;
 
 }
 
@@ -74,6 +80,7 @@ height: 70px;
 width: 70px;
 background-color: rgb(255, 152, 0);
 margin: 0 1.5% 24px 1.5%;
+z-index: 6;
 
 }
 .float .square-1 {
@@ -87,6 +94,8 @@ height: 70px;
 width: 70px;
 background-color: rgb(3, 169, 244);
 margin: 0 1.5% 24px 1.5%;
+z-index: 7;
+
 }
 
 #square-8 {
