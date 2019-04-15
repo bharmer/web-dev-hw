@@ -2,7 +2,8 @@
 body {
   text-align: center;
   padding: 15px;
-  border: 7px solid ##b58907;
+  border: 2px solid #623529;
+
 }
 .main-container {
   background: rgb(#aa93d4);
@@ -98,7 +99,6 @@ height: 70px;
 width: 70px;
 background-color: rgb(82, 0, 29);
 margin: 0 1.5% 24px 1.5%;
-
 
 
 /* fonts */
