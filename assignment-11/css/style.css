@@ -12,13 +12,18 @@ body {
   border: 4px solid ##b58907;
 }
 /*art work*/
-.display-inline-block {
-    display: inline-block;
+.menu-item {
    margin: auto;
    padding: 0.25em;
    min-width: 75px;
    color: #9e1544;
    line-height: 5em;
+}
+.display-inline {
+    display: inline;
+}
+.display-inline-block {
+    display: inline-block;
 }
    .square-2 {
       margin: auto;
