@@ -13,6 +13,7 @@ body {
   border: 4px solid ##b58907;
 }
 /*art work*/
+
 #square-1 {
   float: left;
   height: 70px;
@@ -60,11 +61,11 @@ height: 70px;
 width: 70px;
 background-color: rgb(255, 152, 0);
 margin: 0 1.5% 24px 1.5%;
-position: : bottom;
 
-{}
-p.a {
-  word-break: break-all;
+}
+.float .square-1 {
+    float: left;
+
 
 }
 #square-7 {
