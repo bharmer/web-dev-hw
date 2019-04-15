@@ -52,10 +52,7 @@ width: 70px;
 background-color: rgb(140, 139, 139);
 margin: 0 1.5% 24px 1.5%;
 
-}
-p span
-{
-    display: block;
+
 }
 
 #square-6 {
@@ -64,6 +61,8 @@ height: 70px;
 width: 70px;
 background-color: rgb(255, 152, 0);
 margin: 0 1.5% 24px 1.5%;
+position: : bottom;
+
 }
 #square-7 {
 float: left;
