@@ -11,3 +11,21 @@ body {
 .secondary-container {
   border: 4px solid ##b58907;
 }
+/* fonts */
+@font-face {
+  atom-workspace {
+      font-family: Phosphate;
+.p1 {
+font-family: 'Phosphate', serif;;
+}
+.p2 {
+   font-family: Gill Sans MT Condensed;
+}
+.p3 {
+   font-family: Gill Sans MT Condensed;
+}
+
+/* Specific: */
+.p4 {
+   font-family: Gill Sans MT Condensed;
+}
