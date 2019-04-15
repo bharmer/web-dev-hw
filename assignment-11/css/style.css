@@ -13,20 +13,22 @@ body {
 }
 /*art work*/
 #square-1 {
-  width: 80%;
-  height: 80%;
-  padding: 3.15em;
+  position: relative;
+  width: 40%;
+  height: 40%;
+  padding: 4em;
   margin: auto;
   background-color: rgb(195, 13, 75);
-  z-index: 2;
+
   }
   #square-2 {
-    width: 80%;
-    height: 80%;
-    padding: 3.15em;
+    position: relative;
+    width: 40%;
+    height: 40%;
+    padding: 4em;
     margin: auto;
     background-color: rgb(128, 195, 49);
-    z-index: 2;
+
 
 
 
