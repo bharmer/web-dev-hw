@@ -17,6 +17,14 @@ body {
    background-color: #ffffff;
    background-repeat: repeat-x;
    background-attachment: fixed;
+ }
+ .main-container {
+   background: rgb(#aa93d4);
+   border: 4px solid #607d8b;
+ }
+ .secondary-container {
+   border: 4px solid ##b58907;
+ }
 
 
 
