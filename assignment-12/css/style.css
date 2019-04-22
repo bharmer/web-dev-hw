@@ -1,3 +1,11 @@
+/* Body */
+body {
+   background-color: #2a5b73;
+   background-repeat: repeat-x;
+   background-attachment: fixed;
+
+
+
 /* Set the layout of the menu: */
 .menu-item {
     display: inline-block;
