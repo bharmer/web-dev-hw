@@ -1,0 +1,14 @@
+/* fonts */
+@font-face {
+  atom-workspace {
+      font-family: Phosphate;
+    }
+.p1 {
+font-family: 'Phosphate', serif;;
+}
+.p2 {
+   font-family: 'Gill Sans MT', Condensed;
+}
+.p3 {
+   font-family: 'Gill Sans MT', Condensed;
+}
