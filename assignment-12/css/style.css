@@ -6,7 +6,9 @@ header {
     text-transform: uppercase;
     margin: 0;
     height: 2.15em;
-    text-align: right;
+    text-align: center;
+    position: relative;
+  }
 
 
 
@@ -48,13 +50,12 @@ body {
     background-color: #2a5b73;
 }
 
-/* Add a dropdown feature: */
-.dropdown-item {
-    display: inline-block;
+/* dropdown feature: */
+
 }
 .dropdown-content {
-    display: none;
-    position: center;
+    display: block;
+    text-align: center;
     border: 1px solid #000;
     margin: 0;
     margin-top: 0.5em;
