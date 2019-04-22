@@ -10,19 +10,19 @@ body {
 .menu-item {
     display: inline-block;
     margin: 0 0;
-    min-width: 8em;
+    min-width: 5em;
     text-align: center;
-    background-color: #26272b;
-    padding: 0.5em 0;
+    background-color: #c5c5c5;
+    padding: 0.4em 0;
 }
 
 /* Style the links: */
 .menu-item a {
-    color: #fff;
+    color: #000000;
     text-decoration: none;
 }
 .menu-item:hover {
-    background-color: #1CCDCA;
+    background-color: #2a5b73;
 }
 
 /* Add a dropdown feature: */
