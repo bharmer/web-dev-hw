@@ -8,7 +8,7 @@ body {
 
 /* Set the layout of the menu: */
 }
-.menu-item {
+.menu-bar {
     display: inline-block;
     margin: 0 0;
     min-width: 5em;
