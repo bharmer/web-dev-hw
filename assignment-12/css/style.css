@@ -33,10 +33,11 @@ body {
 /* menu: */
 }
 .menu-bar {
-    display: inline-block;
+    display: block;
     margin: 0.5 0;
     min-width: 5em;
-    text-align: center;
+    text-align: left;
+    postion: linear;
     background-color: #c5c5c5;
     padding: 0.4em 0;
 }
