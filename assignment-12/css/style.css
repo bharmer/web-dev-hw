@@ -5,9 +5,11 @@ header {
     font-size: 10pt;
     text-transform: uppercase;
     margin: 0;
-    height: 5em;
-    text-align: left;
+    padding: 0;
     position: fixed;
+    top: 0;
+    left: 0;
+    width:100%
   }
 
 /* Body */
@@ -31,13 +33,11 @@ body {
 /* menu: */
 }
 .item-menu {
-    display: block;
     margin: 0.5 0;
     min-width: 5em;
-    text-align: left;
-    postion: linear;
+    text-align: center;
     background-color: #c5c5c5;
-    padding: 0.4em 0;
+    padding: 11px 12px;
 }
 
 /* Style the links: */
@@ -55,10 +55,10 @@ li.dropdown {
     display: inline-block;
 }
 .dropdown-content {
-    display: block;
+    display: none;
     position: absolute;
     border: 1px solid #000;
-    margin: 0;
+    margin: 150px;
     margin-top: 0.5em;
     color: #000;
     background-color: #fff;
