@@ -70,14 +70,16 @@ body {
 
 
 /* menu: */
+/* JUSTINE deleted } found here */
 .item-menu {
     margin: 0.5 0;
     min-width: 5em;
     text-align: center;
     background-color: #c5c5c5;
     padding: 11px 12px;
+    display: inline-block; /* JUSTINE to get all links to butt-up against each other */
 }
-"display: inline-block"
+
 /* Style the links: */
 .item-menu a {
     color: #000000;
@@ -89,18 +91,22 @@ body {
 
 /* dropdown feature: */
 
-li.dropdown {
+.dropdown {
     display: inline-block;
 }
 .dropdown-content {
     display: none;
     position: absolute;
     border: 1px solid #000;
-    margin: 150px;
-    margin-top: 0.5em;
+    /*margin: 150px;
+    margin-top: 0.5em;*/
     color: #000;
     background-color: #fff;
     z-index: 1;
+
+    min-width: 11.5em;
+    margin-left: -12px; /* to account for the 12px of padding you have in .item-menu */
+    margin-top: 11px; /* to account for the 12px of padding you have in .item-menu */
 }
 .dropdown-content a {
     color: #000;
