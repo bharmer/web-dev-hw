@@ -133,4 +133,21 @@ img {
   display: block;
   margin-left: auto;
   margin-right: auto;
+
+}
+
+
+/* fonts */
+h1 {
+  font-family: 'BELLABOO', sans-serif;
+}
+h2 {
+  font-family: 'Gill Sans MT Condensed', sans-serif;
+}
+h3 {
+  font-family:'Plantagenet Cherokee', serif;
+
+}
+p {
+  font-family: 'Plantagenet Cherokee', serif;
 }
