@@ -67,6 +67,23 @@ body {
    position: center;
  }
 
+ /* fonts */
+ h1 {
+   font-family: 'Modern No. 20', serif;
+ }
+ h2 {
+   font-family: 'Modern No. 20', sans-serif;
+ }
+ h3 {
+   font-family:'Modern No. 20', serif;
+
+ }
+ p {
+   font-family: 'Plantagenet Cherokee', serif;
+ }
+
+
+
 
 
 /* menu: */
@@ -133,20 +150,4 @@ img {
   margin-left: auto;
   margin-right: auto;
 
-}
-
-
-/* fonts */
-h1 {
-  font-family: 'Modern No. 20', sans-serif;
-}
-h2 {
-  font-family: 'Modern No. 20', sans-serif;
-}
-h3 {
-  font-family:'Modern No. 20', serif;
-
-}
-p {
-  font-family: 'Plantagenet Cherokee', serif;
 }
