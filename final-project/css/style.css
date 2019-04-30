@@ -64,7 +64,7 @@ body {
  }
  .secondary-container {
    border: 4px solid #72999e;
-   position: center; 
+   position: center;
  }
 
 
@@ -137,16 +137,18 @@ img {
 
 
 /* fonts */
-h1 {
-  font-family: 'Modern No. 20', sans-serif;
+/* Guarenteed: */
+.p1 {
+   font-family:'Bodoni 72 Oldstyle'; 
 }
-h2 {
-  font-family: 'Modern No. 20', sans-serif;
+.p2 {
+   font-family: serif;
 }
-h3 {
-  font-family:'Modern No. 20', serif;
+.p3 {
+   font-family: monospace;
+}
 
-}
-p {
-  font-family: 'Plantagenet Cherokee', serif;
+/* Specific: */
+.p4 {
+   font-family: Times;
 }
